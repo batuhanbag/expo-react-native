@@ -9,7 +9,7 @@ Clone this project and follow the steps
 
 #### `npm install --global expo-cli`
 
-#### `npm install` =>
+#### `npm install`
 
 #### `npm start`
 
